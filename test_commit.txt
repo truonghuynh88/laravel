@@ -1,3 +1,9 @@
-chạy test lệnh commit
+
 
 thêm sau conflict
+=======
+thêm cho conflict
+chạy test lệnh commit thêm cho conflict
+
+thêm cho conflict
+
